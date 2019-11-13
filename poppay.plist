@@ -18,7 +18,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.poppay.dev</string>
+                <string>com.samsungfire.sfm</string>
                 <key>bundle-version</key>
                 <string>91.0.1</string>
                 <key>kind</key>
